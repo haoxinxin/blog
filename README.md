@@ -14,4 +14,5 @@ haoxin的资料整理
 1. [解决浮点数计算中的精度问题](https://github.com/haoxinxin/blog/issues/4)
 2. [charles代理https请求](https://github.com/haoxinxin/blog/issues/5)
 3. [Nginx前端使用](https://github.com/haoxinxin/blog/issues/6)
+4. [前端安全](https://github.com/haoxinxin/blog/issues/8)
 
