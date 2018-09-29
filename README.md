@@ -15,4 +15,5 @@ haoxin的资料整理
 2. [charles代理https请求](https://github.com/haoxinxin/blog/issues/5)
 3. [Nginx前端使用](https://github.com/haoxinxin/blog/issues/6)
 4. [前端安全](https://github.com/haoxinxin/blog/issues/8)
+5. [前端缓存设计](https://github.com/haoxinxin/blog/issues/9)
 
